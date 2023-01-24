@@ -32,16 +32,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Data.v15.1">
+    <Reference Include="DevExpress.Data.v13.2">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v15.1">
+    <Reference Include="DevExpress.Utils.v13.2">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v15.1">
+    <Reference Include="DevExpress.XtraBars.v13.2">
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v15.1">
+    <Reference Include="DevExpress.XtraEditors.v13.2">
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
